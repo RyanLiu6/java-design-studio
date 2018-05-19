@@ -9,17 +9,17 @@ Each class will be roughly 2 hours, with a schedule (can be changed) of:
 
 1. Check and Discuss Homework (30 minutes)
 2. Lecture about Software Engineering (30 minutes)
-  1. Class 1 – Software Architecture and Structure
-  2. Class 2- Software Design
-  3. Class 3 – Trello (Task boards)
-  4. Class 4 – Github part 1
-  5. Class 5 – Github part 2
-  6. Class 6 – Implementation and Tests
+* Class 1 – Software Architecture and Structure
+* Class 2- Software Design
+* Class 3 – Trello (Task boards)
+* Class 4 – Github part 1
+* Class 5 – Github part 2
+* Class 6 – Implementation and Tests
 3. &quot;Lab&quot; time (60 minutes)
-  1. Specifically, students will be working on projects during this 60 minutes, and I will spend a proportionate amount of time with students 1 on 1 or 1 on 2.
-  2. We will have discussions about their progress and what kind of technologies they have chosen to work with and develop in.
-  3. This is the time that Students can ask me about any issues or confusion they are facing
-  4. If we have 2 students, they I will have 30 minutes per Student (60/2)
+* Specifically, students will be working on projects during this 60 minutes, and I will spend a proportionate amount of time with students 1 on 1 or 1 on 2.
+* We will have discussions about their progress and what kind of technologies they have chosen to work with and develop in.
+* This is the time that Students can ask me about any issues or confusion they are facing
+* If we have 2 students, they I will have 30 minutes per Student (60/2)
 
 ## Project Structure:
 
@@ -39,19 +39,19 @@ For this course, the Students will have the chance to pick the project they are 
 ### Requirements:
 
 1. Must include the following &quot;technical&quot; aspects:
-  1. Classes / Objects
-  2. Inheritance and Polymorphism – implementation up to Students (Abstract Class vs Interface)
-  3. GUI if applicable
-  4. Substantial processing element – an algorithm that does &quot;something&quot;, not just a shell of a program
-  5. Choice of at least TWO of the following aspects:
-    1. Connectivity with the Internet (REST or otherwise)
-    2. Database
-    3. User Information (Registration, Log in, etc)
-    4. Push notification
+* Classes / Objects
+* Inheritance and Polymorphism – implementation up to Students (Abstract Class vs Interface)
+* GUI if applicable
+* Substantial processing element – an algorithm that does &quot;something&quot;, not just a shell of a program
+* Choice of at least TWO of the following aspects:
+  * Connectivity with the Internet (REST or otherwise)
+  * Database
+  * User Information (Registration, Log in, etc)
+  * Push notification
 2. Proper documentation for their code
-  1. Must include how others can use your code and further develop it
+* Must include how others can use your code and further develop it
 3. Proper Testing – Unit and System at the MINIMUM
 4. Design documents – Exact details up to Students
-  1. Diagrams
-  2. Flowcharts
-  3. etc
+* Diagrams
+* Flowcharts
+* etc
