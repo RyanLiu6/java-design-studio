@@ -1,6 +1,7 @@
 # First Class
 ## Step 1 (20 Minutes)
 Discuss about Students' experiences in programming and Java
+
 Assign Homework_1 (Introduction, HackerRank Strings, BigNumber, Data Structures)
 
 ## Step 2 (10 Minutes)

@@ -10,7 +10,7 @@ Each class will be roughly 2 hours, with a schedule (can be changed) of:
 1. Check and Discuss Homework (30 minutes)
 2. Lecture about Software Engineering (30 minutes)
   * Class 1 – Software Architecture and Structure
-  * Class 2- Software Design
+  * Class 2 – Software Design
   * Class 3 – Trello (Task boards)
   * Class 4 – Github part 1
   * Class 5 – Github part 2
