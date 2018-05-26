@@ -1,21 +1,19 @@
-# First Class
-## Step 1 (20 Minutes)
-Discuss about Students' experiences in programming and Java
+# Second Class
+## Step 1 (30 Minutes)
+Check last week's assigned homework:
+1.	5 problems of difficulty “easy” from https://leetcode.com/problemset/all/
+2.	Project Proposal
 
-Assign Homework_1 (Introduction, HackerRank Strings, BigNumber, Data Structures)
+Project Proposal must contain:
+* What the project is about (if it’s a game, what the game is)
+* Details of the project (what it does, what features it has, etc)
+* Project Goals (By week 2, Feature 1 will be done, etc)
 
-## Step 2 (10 Minutes)
-Introduce Students to sample project ideas
+## Step 2 (30 Minutes)
+Short Lecture on Software Design.
 
-Note: Students do NOT have to pick a project that is listed, but can think of ideas / projects they want to pursue on their own. As the instructor, I need to gauge the difficulty before I can give the OK for Students.
-
-We will aim to have Students pick their project by the end of the first hour.
-
-## Step 3 (30 Minutes)
-Short Lecture on Software Architecture and Structure.
-
-## Step 4 (60 Minutes)
+## Step 3 (60 Minutes)
 Lab time! Time for Students to work individually.
 
 # xckd of the day
-![xkcd of the day](https://imgs.xkcd.com/comics/tasks.png)
+![xkcd of the day](https://imgs.xkcd.com/comics/compiling.png)
